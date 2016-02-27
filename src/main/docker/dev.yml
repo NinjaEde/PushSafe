@@ -1,0 +1,7 @@
+pushsafe-dev-mongodb:
+  container_name: pushsafe-dev-mongodb
+  image: mongo:3.0.7
+  # volumes:
+  #   - ~/volumes/jhipster/pushsafe/dev-mongodb/:/data/db/
+  ports:
+    - "27017:27017"
