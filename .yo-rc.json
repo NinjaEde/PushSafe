@@ -1,0 +1,22 @@
+{
+  "generator-jhipster": {
+    "baseName": "pushsafe",
+    "packageName": "de.ergodirekt",
+    "packageFolder": "de/ergodirekt",
+    "authenticationType": "xauth",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": "no",
+    "useSass": true,
+    "buildTool": "maven",
+    "frontendBuilder": "gulp",
+    "enableTranslation": false,
+    "enableSocialSignIn": false,
+    "rememberMeKey": "08c21f78792f528e6c66c8c3ba0cba234db6ef6d",
+    "testFrameworks": []
+  }
+}
